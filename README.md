@@ -74,8 +74,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavijha12&show_icons=true&theme=radical"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaishnavijha12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" 
+    alt="Vaishnavi's GitHub stats"
+  />
 </p>
+
 
 ---
 
