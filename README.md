@@ -114,6 +114,15 @@
     <img src="https://leetcode-stats.vercel.app/api?username=vaishh0506&theme=dark" />
   </a>
 </p>
+## 🏅 LeetCode Badge Showcase
+
+<p align="center">
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=Vaishh0506&theme=dark&border=border&animated=true" 
+    alt="Vaishnavi's LeetCode Badges"
+  />
+</p>
+
 
 ---
 
