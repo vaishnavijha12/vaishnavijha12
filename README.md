@@ -82,7 +82,11 @@
 
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/output/github-contribution-grid-snake.svg"/>
+</p>
 ## 🔥 GitHub Streak  
 
 <p align="center">
