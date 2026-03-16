@@ -65,22 +65,14 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavijha12&theme=tokyonight"/>
-
-</p>
-
----
 
 
 
 ## 📊 GitHub Metrics
 
+
 <p align="center">
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavijha12&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 # 🐍 Contribution Snake
@@ -114,7 +106,9 @@
 </p>
 
 ---
-
+<p align="center">
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg"/>
+</p>
 # 💡 Dev Quote
 
 <p align="center">
