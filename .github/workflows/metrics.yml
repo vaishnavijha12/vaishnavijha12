@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -11,10 +12,31 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: vaishnavijha12
+          filename: github-metrics.svg
+
           template: classic
           base: header, activity, community, repositories
+
+          # 🔤 Language donut chart
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_languages_details: percentage
+
+          # 🔷 3D contribution graph
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_mode: 3d
+
+          # ⭐ Extra stats
           plugin_stars: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+          # 🎨 UI look
+          config_display: large
+          config_theme: dark
+          config_padding: 0
+          config_timezone: Asia/Kolkata
