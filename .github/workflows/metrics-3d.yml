@@ -8,16 +8,13 @@ jobs:
   github-metrics-3d:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: vaishnavijha12
           filename: metrics-3d.svg
 
-          base: header
+          base: ""
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_mode: 3d
-
-          config_theme: dark
