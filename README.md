@@ -68,7 +68,7 @@
 
 
 
-## 📊 GitHub Metrics
+# 📊 GitHub Activity
 
 
 <p align="center">
@@ -106,9 +106,7 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg"/>
-</p>
+
 # 💡 Dev Quote
 
 <p align="center">
@@ -121,12 +119,16 @@
 ---
 
 
-# 🔷 3D Contribution Graph
+# 🔷 3D Contribution Graph (Live)
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" />
+  <img width="800" src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" />
 </p>
+
 ---
+
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
+✨ If you like my work, consider giving a ⭐ to my repositories!
 </p>
+
+---
