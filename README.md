@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif" width="1500"/>
+</p>
 <h1 align="center">Hi 👋, I'm Vaishnavi Jha</h1>
 
 <p align="center">
