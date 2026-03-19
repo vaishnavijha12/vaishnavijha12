@@ -119,7 +119,33 @@
 </p>
 
 ---
+## ✍️ Latest Blog
 
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔐 How Authentication Actually Works
+
+🚀 Understand how authentication really works — Sessions, JWT, and OAuth (Google Sign-In) explained in a simple way.
+
+👉 <a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2" target="_blank">
+Read full article
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/gfff2.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # 🔷 3D Contribution Graph (Live)
 
