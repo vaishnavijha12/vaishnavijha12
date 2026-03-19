@@ -119,12 +119,13 @@
 </p>
 
 ---
+
+
 # 🔷 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/metrics-3d.svg" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" />
 </p>
-
 ---
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
