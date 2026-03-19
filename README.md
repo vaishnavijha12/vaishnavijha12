@@ -121,8 +121,13 @@
 
 # 🔷 3D Contribution Graph (Live)
 
+
+
 <p align="center">
-  <img width="800" src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" />
+  <img 
+    src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" 
+    width="900" 
+  />
 </p>
 
 ---
