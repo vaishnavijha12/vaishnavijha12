@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif" width="1500"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Jha</h1>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 * 🚀 Full Stack Web Developer
 * 🌐 Building scalable web applications
@@ -25,7 +26,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -45,98 +46,98 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,mongodb,git,github,vscode" />
-
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavijha12&show_icons=true&theme=tokyonight&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavijha12&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-
-
-
-# 📊 GitHub Activity
-
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavijha12&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
-# 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-
 <img src="https://leetcode-stats.vercel.app/api?username=vaishh0506&theme=dark"/>
-
 </p>
 
 ---
 
-# 🎖 Holopin Badges
+## 🎖 Holopin Badges
 
 <p align="center">
-
 <a href="https://holopin.io/@vaishnavijha12">
 <img src="https://holopin.me/vaishnavijha12"/>
 </a>
-
 </p>
 
 ---
 
-# 💡 Dev Quote
+## 💡 Dev Quote
 
 <p align="center">
-
-"Code is like humor. When you have to explain it, it’s bad."
+"Code is like humor. When you have to explain it, it’s bad."  
 — Cory House
-
 </p>
 
 ---
-## ✍️ Latest Blog
+
+## ✍️ Featured Blog
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="55%" valign="top">
 
 ### 🔐 How Authentication Actually Works
 
-🚀 Understand how authentication really works — Sessions, JWT, and OAuth (Google Sign-In) explained in a simple way.
+<sub>Understanding Sessions, JWT & OAuth</sub>
 
-👉 <a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2" target="_blank">
-Read full article
-</a>
+<br/>
+
+<span>
+  <img src="https://img.shields.io/badge/Sessions-2563eb?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-9333ea?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-16a34a?style=flat-square&logo=auth0&logoColor=white"/>
+</span>
+
+<br/>
+
+> 💡 Sessions vs JWT vs OAuth — explained simply
+
+Understand authentication behind the scenes — simplified for developers.
+
+<br/>
+
+👉 <b><a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2" style="text-decoration:none;" target="_blank">Read Full Article →</a></b>
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
 <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/gfff2.gif" width="100%" />
 
@@ -147,15 +148,10 @@ Read full article
 
 ---
 
-# 🔷 3D Contribution Graph (Live)
-
-
+## 🔷 3D Contribution Graph (Live)
 
 <p align="center">
-  <img 
-    src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" 
-    width="900" 
-  />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" width="900"/>
 </p>
 
 ---
@@ -163,5 +159,3 @@ Read full article
 <p align="center">
 ✨ If you like my work, consider giving a ⭐ to my repositories!
 </p>
-
----
