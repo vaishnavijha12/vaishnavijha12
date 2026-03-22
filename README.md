@@ -148,13 +148,7 @@ Understand authentication behind the scenes — simplified for developers.
 
 ---
 
-## 🔷 3D Contribution Graph (Live)
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=vaishnavijha12&theme=night" width="900"/>
-</p>
-
----
 
 <p align="center">
 ✨ If you like my work, consider giving a ⭐ to my repositories!
