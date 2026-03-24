@@ -137,7 +137,7 @@ Understand authentication behind the scenes — simplified for developers.
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
 <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/gfff2.gif" width="100%" />
 
