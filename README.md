@@ -106,49 +106,16 @@
 
 ---
 
-## ✍️ Featured Blog
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-### 🔐 How Authentication Actually Works
-
-<sub>Understanding Sessions, JWT & OAuth</sub>
-
-<br/>
-
-<span>
-  <img src="https://img.shields.io/badge/Sessions-2563eb?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-9333ea?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth-16a34a?style=flat-square&logo=auth0&logoColor=white"/>
-</span>
-
-<br/>
-
-> 💡 Sessions vs JWT vs OAuth — explained simply
-
-Understand authentication behind the scenes — simplified for developers.
-
-<br/>
-
-👉 <b><a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2" style="text-decoration:none;" target="_blank">Read Full Article →</a></b>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/gfff2.gif" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
----
 
 
+<h3>✍️ Featured Blog</h3>
+
+
+
+<p>
+🔐 <b>How Authentication Actually Works</b> — Sessions • JWT • OAuth<br>
+👉 <a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2">Read Full Article →</a>
+</p>
 
 <p align="center">
 ✨ If you like my work, consider giving a ⭐ to my repositories!
