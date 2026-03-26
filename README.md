@@ -29,19 +29,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/kumarivaishnavi56/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 <a href="https://github.com/vaishnavijha12">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-
 <a href="https://leetcode.com/u/vaishh0506/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
 </a>
-
 </p>
 
 ---
@@ -69,13 +65,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavijha12&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
-
-
-
-
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
@@ -91,7 +82,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=vaishh0506&theme=dark"/>
+<img src="https://leetcard.jacoblin.cool/vaishh0506?theme=dark&font=Baloo" />
 </p>
 
 ---
@@ -104,26 +95,47 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=F7C843&center=true&vCenter=true&width=600&lines=Proud+Open+Source+Contributor;Love+Building+for+the+Community;Always+Learning+and+Sharing+Knowledge" />
+</p>
+
 ---
 
-## 💡 Dev Quote
+## 💡 Dev & Content
+
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+
+<i>"Code is like humor. When you have to explain it, it’s bad."</i>
+— **Cory House**
+
+<br/>
+
+🔐 **How Authentication Actually Works**
+Sessions • JWT • OAuth
+
+👉 <a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2">
+Read Full Article → </a>
+
+<br clear="right"/>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-"Code is like humor. When you have to explain it, it’s bad."  
-— Cory House
+💼 Open to freelance & collaboration opportunities  
 </p>
 
----
-
-<h3>✍️ Featured Blog</h3>
-
-<p>
-🔐 <b>How Authentication Actually Works</b> — Sessions • JWT • OAuth<br>
-👉 <a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2">Read Full Article →</a>
+<p align="center">
+📩 <a href="mailto:vaishnavijha0506@gmail.com">Email</a> •  
+💬 <a href="https://www.linkedin.com/in/kumarivaishnavi56/">LinkedIn</a> •  
+🌐 <a href="#">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-✨ If you like my work, consider giving a ⭐ to my repositories!
+⭐ <b>If you like my work, consider starring my repositories!</b>
 </p>
+
+---
