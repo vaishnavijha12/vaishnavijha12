@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif" width="1501"/>
+  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif" width="1200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumari Vaishnavi </h1>
@@ -71,6 +71,14 @@
 
 ---
 
+## 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -106,17 +114,14 @@
 
 ---
 
-
-
 <h3>✍️ Featured Blog</h3>
-
-
 
 <p>
 🔐 <b>How Authentication Actually Works</b> — Sessions • JWT • OAuth<br>
 👉 <a href="https://medium.com/@vaishnavijha0506/how-authentication-actually-works-sessions-vs-jwt-vs-oauth-google-sign-in-explained-5f71617372d2">Read Full Article →</a>
 </p>
 
+---
 
 <p align="center">
 ✨ If you like my work, consider giving a ⭐ to my repositories!
