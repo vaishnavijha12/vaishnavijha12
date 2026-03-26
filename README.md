@@ -63,15 +63,16 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Activity & Contributions
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavijha12&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
----
 
-## 📊 3D Contribution Graph
+
+
+
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
