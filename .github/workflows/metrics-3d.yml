@@ -7,6 +7,7 @@ on:
 jobs:
   github-metrics-3d:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -15,6 +16,5 @@ jobs:
           filename: metrics-3d.svg
 
           base: ""
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
