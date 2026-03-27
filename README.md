@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif" width="1200"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Kumari Vaishnavi </h1>
+<h1 align="center">Hi 👋, I'm Kumari Vaishnavi  </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Open+Source+Contributor;React+%7C+Node+%7C+MongoDB;Problem+Solver;Always+Learning+New+Things" />
