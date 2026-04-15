@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif "      width="1200"/>
-</p>
+</p> 
 
 <h1 align="center">Hi 👋, I'm Kumari Vaishnavi   </h1>
 
