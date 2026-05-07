@@ -49,13 +49,29 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavijha12&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavijha12&layout=compact&theme=tokyonight"/>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com?user=vaishnavijha12&theme=tokyonight&hide_border=true" 
+alt="GitHub Streak Stats" 
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavijha12&theme=tokyonight" 
+alt="GitHub Stats" 
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
