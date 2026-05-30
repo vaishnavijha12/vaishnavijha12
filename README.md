@@ -26,6 +26,7 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -41,6 +42,8 @@
 </p>
 
 ---
+
+
 
 ## 🛠 Tech Stack
 
@@ -101,8 +104,25 @@ alt="GitHub Streak Stats"
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/vaishh0506?theme=dark&font=Baloo" />
 </p>
+<br>
 
----
+## 💙 Support My Open Source Work
+<p align="center">
+  <a href="https://github.com/sponsors/vaishnavijha12">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+🎃 Hacktoberfest 2025 — Super Contributor &nbsp;|&nbsp;
+🌟 GSSoC '26 Ambassador &nbsp;|&nbsp;
+🎓 OSCG Campus Lead
+</p>
+
+<p align="center">
+70+ PRs and counting! Your sponsorship helps me contribute more to open source 
+</p>
+<br>
 
 ## 🎖 Holopin Badges
 
