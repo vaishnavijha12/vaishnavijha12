@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif "       width="1200"/>
+  <img src="https://raw.githubusercontent.com/vaishnavijha12/vaishnavijha12/main/GIF.gif "        width="1200"/>
 </p> 
 
 <h1 align="center">Hi 👋, I'm Kumari Vaishnavi    </h1>
@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kumarivaishnavi56/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="41"/>
 </a>
 <a href="https://github.com/vaishnavijha12">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
