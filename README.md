@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kumarivaishnavi56/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="41"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://github.com/vaishnavijha12">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
