@@ -124,7 +124,7 @@ alt="GitHub Streak Stats"
 </p>
 <br>
 
-## 🎖 Holopin Badges
+##  🎖 Holopin Badges
 
 <p align="center">
 <a href="https://holopin.io/@vaishnavijha12">
