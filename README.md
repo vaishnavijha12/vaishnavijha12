@@ -24,25 +24,57 @@
 * 🏆 Open Source Contributor
 * 📈 Always exploring new technologies
 
+
 ---
-# 🏆 GSSoC 2026 Journey
+
+<h2 align="center">🏆 GirlScript Summer of Code 2026</h2>
 
 <p align="center">
-<img src="./badges/gssoc-badge-role_ambassador.png" width="140"/>
-<img src="./badges/gssoc-badge-power_contributor.png" width="140"/>
-<img src="./badges/gssoc-badge-rising_star.png" width="140"/>
-<img src="./badges/gssoc-badge-on_a_roll.png" width="140"/>
-<img src="./badges/gssoc-badge-elite.png" width="140"/>
+Proud to be a part of <b>GirlScript Summer of Code 2026</b>, contributing to open-source
+projects through feature development, bug fixes, documentation improvements,
+and active community engagement.
 </p>
 
-### Highlights
+<p align="center">
+  <img src="./badges/gssoc-badge-role_ambassador.png" width="175" alt="Ambassador"/>
+  &nbsp;&nbsp;
+  <img src="./badges/gssoc-badge-power_contributor.png" width="175" alt="Power Contributor"/>
+  &nbsp;&nbsp;
+  <img src="./badges/gssoc-badge-rising_star.png" width="175" alt="Rising Star"/>
+</p>
 
-- 🌟 Selected as **GSSoC 2026 Ambassador**
-- 🚀 Earned **Power Contributor** badge
-- ⭐ Achieved **Rising Star**
-- 💎 Received **Rare Merged** badge
+<p align="center">
+  <img src="./badges/gssoc-badge-on_a_roll.png" width="175" alt="Rare Merged"/>
+  &nbsp;&nbsp;
+  <img src="./badges/gssoc-badge-elite.png" width="175" alt="Elite"/>
+</p>
+
+<p align="center">
+<b>Achievements Earned</b>
+</p>
+
+<p align="center">
+🌟 <b>Ambassador</b> &nbsp; • &nbsp;
+🚀 <b>Power Contributor</b> &nbsp; • &nbsp;
+⭐ <b>Rising Star</b> &nbsp; • &nbsp;
+💎 <b>Rare Merged</b> &nbsp; • &nbsp;
+👑 <b>Elite</b>
+</p>
+
+---
+
+### ✨ Highlights
+
+- 🌟 Selected as a **GirlScript Summer of Code 2026 Ambassador**
 - 👑 Earned the prestigious **Elite** badge
-- 🔥 Contributed through bug fixes, feature development, documentation, and community engagement across multiple repositories.
+- 🚀 Recognized as a **Power Contributor**
+- ⭐ Awarded the **Rising Star** badge
+- 💎 Received the **Rare Merged** badge
+- 🔥 Contributed to multiple open-source repositories by implementing features, fixing bugs, improving documentation, and collaborating with maintainers.
+
+---
+
+
 
 ## 🌐 Connect With Me
 
