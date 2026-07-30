@@ -25,7 +25,24 @@
 * 📈 Always exploring new technologies
 
 ---
+# 🏆 GSSoC 2026 Journey
 
+<p align="center">
+<img src="./badges/gssoc-badge-role_ambassador.png" width="140"/>
+<img src="./badges/gssoc-badge-power_contributor.png" width="140"/>
+<img src="./badges/gssoc-badge-rising_star.png" width="140"/>
+<img src="./badges/gssoc-badge-on_a_roll.png" width="140"/>
+<img src="./badges/gssoc-badge-elite.png" width="140"/>
+</p>
+
+### Highlights
+
+- 🌟 Selected as **GSSoC 2026 Ambassador**
+- 🚀 Earned **Power Contributor** badge
+- ⭐ Achieved **Rising Star**
+- 💎 Received **Rare Merged** badge
+- 👑 Earned the prestigious **Elite** badge
+- 🔥 Contributed through bug fixes, feature development, documentation, and community engagement across multiple repositories.
 
 ## 🌐 Connect With Me
 
